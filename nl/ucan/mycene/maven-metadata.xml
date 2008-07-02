@@ -3,11 +3,12 @@
   <artifactId>mycene</artifactId>
   <version>0.2</version>
   <versioning>
-    <release>0.3</release>
+    <release>0.3.1</release>
     <versions>
       <version>0.2</version>
       <version>0.3</version>
+      <version>0.3.1</version>
     </versions>
-    <lastUpdated>20080627132155</lastUpdated>
+    <lastUpdated>20080702145727</lastUpdated>
   </versioning>
 </metadata>
