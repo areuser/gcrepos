@@ -3,14 +3,15 @@
   <artifactId>navigate</artifactId>
   <version>0.2</version>
   <versioning>
-    <release>0.2.4</release>
+    <release>0.2.5</release>
     <versions>
       <version>0.2</version>
       <version>0.2.1</version>
       <version>0.2.2</version>
       <version>0.2.3</version>
       <version>0.2.4</version>
+      <version>0.2.5</version>
     </versions>
-    <lastUpdated>20080715204842</lastUpdated>
+    <lastUpdated>20081015211351</lastUpdated>
   </versioning>
 </metadata>
